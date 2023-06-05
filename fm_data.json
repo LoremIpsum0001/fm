@@ -1,6 +1,292 @@
 {
-    "Sino ang karaniwang may bodyguard?":[["Pulitiko",55],["Mayayaman",28],["Artista",11],["Abogado",4]],
-    "Name a toy you always see in pictures of Santa's Workshop":[["Doll",39],["Stuffed Animal",13],["Train",11],["Rocking Horse",9],["Toy Soldier",9],["Drum",4],["Ball",3],["Wagon",3]],
-    "Name a kind of food that gets stuck between your teeth":[["Corn",37],["Meat",23],["Popcorn",22],["Caramel",6],["Nuts",3],["Peanut Butter",3],["Taffy",2]],
-    "Name something the police do at the station to those who are arrested":[["Fingerprint Them",56],["Book Them",20],["Question",5],["Mug Shot",5],["Give One Phone Call",3],["Put Then in Cell",3],["Read Their Rights",2]]
-    }
+    "Sino ang karaniwang may bodyguard?": [
+        [
+            "Pulitiko",
+            55
+        ],
+        [
+            "Mayayaman",
+            28
+        ],
+        [
+            "Artista",
+            11
+        ],
+        [
+            "Abogado",
+            4
+        ]
+    ],
+    "Anong pagkain ang nilalagyan ng nilagang itlog?": [
+        [
+            "Adobo",
+            39
+        ],
+        [
+            "Giniling",
+            13
+        ],
+        [
+            "Menudo",
+            11
+        ],
+        [
+            "Chopsuey",
+            9
+        ],
+        [
+            "Palabok",
+            9
+        ],
+        [
+            "Lugaw/Arroz Caldo",
+            4
+        ]
+    ],
+    "Gulay na hindi green": [
+        [
+            "Carrot",
+            55
+        ],
+        [
+            "Potato",
+            9
+        ],
+        [
+            "Talong",
+            8
+        ],
+        [
+            "Kamatis",
+            7
+        ],
+        [
+            "Singkamas",
+            3
+        ]
+    ],
+    "Ano ang ginagawa ng teenager na ikinakagalit ng magulang": [
+        [
+            "Magsinungaling",
+            32
+        ],
+        [
+            "Late umuwi",
+            22
+        ],
+        [
+            "Sumasagot",
+            19
+        ],
+        [
+            "Maglasing",
+            12
+        ],
+        [
+            "Manigarilyo",
+            7
+        ]
+    ],
+    "Malamig na inumin": [
+        [
+            "Softdrinks",
+            31
+        ],
+        [
+            "Iced Tea",
+            18
+        ],
+        [
+            "Tubig",
+            14
+        ],
+        [
+            "Beer",
+            13
+        ],
+        [
+            "Lemonade",
+            8
+        ]
+    ],
+    "Saan makikita ang buong pangalan ng isang tao": [
+        [
+            "Drivers License",
+            33
+        ],
+        [
+            "Job Application",
+            31
+        ],
+        [
+            "Birth Certificate",
+            13
+        ],
+        [
+            "Passport",
+            11
+        ],
+        [
+            "ID",
+            7
+        ]
+    ],
+    "Sikat na kulay ng kotse": [
+        [
+            "Red",
+            30
+        ],
+        [
+            "White",
+            27
+        ],
+        [
+            "Black",
+            24
+        ],
+        [
+            "Gray",
+            21
+        ],
+        [
+            "Silver",
+            11
+        ],
+        [
+            "Blue",
+            5
+        ]
+    ],
+    "Bukod sa Libro ano pa ang kadalasan makikita sa Library": [
+        [
+            "Computers",
+            27
+        ],
+        [
+            "Librarians",
+            18
+        ],
+        [
+            "Magazines",
+            15
+        ],
+        [
+            "Newspapers",
+            8
+        ]
+    ],
+    "Parte ng katawan na may letter 'E' ": [
+        [
+            "Ear",
+            33
+        ],
+        [
+            "Eye",
+            31
+        ],
+        [
+            "Elbow",
+            25
+        ],
+        [
+            "Esophagus",
+            7
+        ]
+    ],
+    "Lugar na may mahabang pila": [
+        [
+            "Grocery store",
+            25
+        ],
+        [
+            "Bank",
+            23
+        ],
+        [
+            "Train Station",
+            22
+        ],
+        [
+            "Airport",
+            17
+        ],
+        [
+            "Amusement Park",
+            1
+        ]
+    ],
+    "Mga alagang hayop na exotic": [
+        [
+            "Tiger/Lion",
+            29
+        ],
+        [
+            "Monkey",
+            25
+        ],
+        [
+            "Python/large snake",
+            21
+        ],
+        [
+            "Parrot",
+            18
+        ],
+        [
+            "Fox",
+            5
+        ]
+    ],
+    "Fill in the blanks: Black ______": [
+        [
+            "Board",
+            30
+        ],
+        [
+            "Pink",
+            15
+        ],
+        [
+            "Pen",
+            13
+        ],
+        [
+            "Panther",
+            5
+        ],
+        [
+            "Magic",
+            3
+        ],
+        [
+            "Out",
+            3
+        ]
+    ],
+    "Bukod sa paglalaba at pagligo saan pa ginagamit ang tubig": [
+        [
+            "Halaman",
+            20
+        ],
+        [
+            "Inumin",
+            17
+        ],
+        [
+            "Hugas ng plato",
+            15
+        ],
+        [
+            "Linis ng bahay",
+            14
+        ],
+        [
+            "Pagluluto",
+            13
+        ],
+        [
+            "Car Wash",
+            8
+        ]
+    ]
+}
