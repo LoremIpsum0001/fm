@@ -310,5 +310,35 @@
             "Car Wash",
             8
         ]
+    ],
+    "Expressways in the Philippines": [
+        [
+            "North Luzon Expressway (NLEX)",
+            30
+        ],
+        [
+            "South Luzon Expressway (SLEX)",
+            24
+        ],
+        [
+            "Metro Manila Skyway",
+            20
+        ],
+        [
+            "Manila-Cavite Expressway (CAVITEX)",
+            16
+        ],
+        [
+            "NAIA Expressway (NAIAEx)",
+            13
+        ],
+        [
+            "Subic-Clark-Tarlac Expressway (SCTEX)",
+            9
+        ],
+        [
+            "Tarlac-Pangasinan-La Union Expressway (TPLEX)",
+            5
+        ]
     ]
 }
