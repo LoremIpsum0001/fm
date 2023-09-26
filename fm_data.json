@@ -285,6 +285,24 @@
             3
         ]
     ],
+    "What is your favorite Christmas Tradition?": [
+        [
+            "Noche Buena/Kainan",
+            14
+        ],
+        [
+            "Exchange Gift",
+            11
+        ],
+        [
+            "Family Gathering/Reunion",
+            9
+        ],
+        [
+            "Simbang Gabi",
+            7
+        ]
+    ],
     "Bukod sa paglalaba at pagligo saan pa ginagamit ang tubig": [
         [
             "Halaman",
@@ -309,6 +327,62 @@
         [
             "Car Wash",
             8
+        ]
+    ],
+    "Name 1 Filipino Christmas Song": [
+        [
+            "Ang Pasko ay sumapit",
+            13
+        ],
+        [
+            "Pasko Na Naman",
+            11
+        ],
+        [
+            "Star ng Pasko",
+            9
+        ],
+        [
+            "Christmas in Our Hearts",
+            7
+        ],
+        [
+            "Christmas Bonus",
+            5
+        ],
+        [
+            "Himig ng Pasko",
+            3
+        ]
+    ],
+    "Name 1 Filipino Christmas Dish during Noche Buena": [
+        [
+            "Hamon",
+            22
+        ],
+        [
+            "Fruit Salad",
+            17
+        ],
+        [
+            "Macaroni Salad",
+            15
+        ],
+        [
+            "Spaghetti",
+            13
+        ],
+        [
+            "Lumpia",
+            11
+        ],
+        [
+            "Fried Chicken",
+            7
+        ],
+        [
+            "Pancit",
+            4
         ]
     ],
     "Expressways in the Philippines": [
